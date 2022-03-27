@@ -1,9 +1,501 @@
-[{
-  "dynasty": "夏",
-  "dynastyCn": "xia",
-  "founder": "禹",
-  "startYear": -2027,
-  "endYear": -1600,
-  "lengthOfDynasty": 470,
-  "capital": "山西夏县"
-}]
+[
+  {
+    "dynasty": "夏",
+    "dynastyCn": "xia",
+    "startYear": -2070,
+    "endYear": -1600,
+    "lengthOfDynasty": 470,
+    "founder": "禹",
+    "capital": "洛阳"
+  },
+  {
+    "dynasty": "商",
+    "dynastyCn": "shang",
+    "startYear": -1600,
+    "endYear": -1046,
+    "lengthOfDynasty": 554,
+    "founder": "汤",
+    "capital": [
+      "商丘",
+      "洛阳",
+      "郑州",
+      "安阳"
+    ]
+  },
+  {
+    "dynasty": "西周",
+    "dynastyCn": "xi-zhou",
+    "startYear": -1046,
+    "endYear": -771,
+    "lengthOfDynasty": 275,
+    "founder": "姬发",
+    "capital": [
+      "西安",
+      "洛阳"
+    ]
+  },
+  {
+    "isHide": true,
+    "dynasty": "东周",
+    "dynastyCn": "dong-zhou",
+    "startYear": -770,
+    "endYear": -221,
+    "lengthOfDynasty": 549,
+    "period": [
+      "春秋",
+      "战国"
+    ]
+  },
+  {
+    "dynasty": "春秋",
+    "dynastyCn": "chunqiu",
+    "startYear": -770,
+    "endYear": -476,
+    "lengthOfDynasty": 295,
+    "founder": "姬宜臼",
+    "capital": "洛阳"
+  },
+  {
+    "dynasty": "战国",
+    "dynastyCn": "zhaoguo",
+    "startYear": -475,
+    "endYear": -221,
+    "lengthOfDynasty": 254,
+    "founder": "姬宜臼",
+    "capital": "洛阳"
+  },
+  {
+    "dynasty": "秦朝",
+    "dynastyCn": "qin",
+    "startYear": -221,
+    "endYear": -206,
+    "lengthOfDynasty": 16,
+    "founder": "嬴政",
+    "capital": [
+      "咸阳",
+      "西安"
+    ]
+  },
+  {
+    "dynasty": "西楚",
+    "dynastyCn": "chu",
+    "startYear": -206,
+    "endYear": -202,
+    "lengthOfDynasty": 5,
+    "founder": "项羽",
+    "capital": "徐州"
+  },
+  {
+    "dynasty": "西汉",
+    "dynastyCn": "xi-han",
+    "startYear": -202,
+    "endYear": -8,
+    "lengthOfDynasty": 210,
+    "founder": "刘邦",
+    "capital": "西安"
+  },
+  {
+    "dynasty": "新",
+    "dynastyCn": "xin",
+    "startYear": -8,
+    "endYear": 23,
+    "lengthOfDynasty": 16,
+    "founder": "王莽",
+    "capital": "西安"
+  },
+  {
+    "dynasty": "玄汉",
+    "dynastyCn": "xuan",
+    "startYear": 23,
+    "endYear": 25,
+    "lengthOfDynasty": 2,
+    "founder": "刘玄",
+    "capital": "西安"
+  },
+  {
+    "dynasty": "东汉",
+    "dynastyCn": "dong-han",
+    "startYear": 25,
+    "endYear": 220,
+    "lengthOfDynasty": 195,
+    "founder": "刘秀",
+    "capital": "洛阳"
+  },
+  {
+    "isHide": true,
+    "dynasty": "三国",
+    "dynastyCn": "sanguo",
+    "startYear": 220,
+    "endYear": 280,
+    "lengthOfDynasty": 60,
+    "period": [
+      "魏",
+      "蜀",
+      "吴"
+    ]
+  },
+  {
+    "dynasty": "魏",
+    "dynastyCn": "wei",
+    "startYear": 220,
+    "endYear": 265,
+    "lengthOfDynasty": 45,
+    "founder": "曹丕",
+    "capital": "洛阳"
+  },
+  {
+    "dynasty": "蜀",
+    "dynastyCn": "shu",
+    "startYear": 221,
+    "endYear": 263,
+    "lengthOfDynasty": 42,
+    "founder": "刘备",
+    "capital": "成都"
+  },
+  {
+    "dynasty": "吴",
+    "dynastyCn": "wu",
+    "startYear": 222,
+    "endYear": 280,
+    "lengthOfDynasty": 58,
+    "founder": "孙权",
+    "capital": "南京"
+  },
+  {
+    "isHide": true,
+    "dynasty": "晋",
+    "dynastyCn": "liangjin",
+    "startYear": 265,
+    "endYear": 420,
+    "lengthOfDynasty": 155,
+    "period": [
+      "西晋",
+      "东晋"
+    ]
+  },
+  {
+    "dynasty": "西晋",
+    "dynastyCn": "xi-jin",
+    "startYear": 265,
+    "endYear": 316,
+    "lengthOfDynasty": 51,
+    "founder": "司马炎",
+    "capital": [
+      "洛阳",
+      "西安"
+    ]
+  },
+  {
+    "dynasty": "东晋",
+    "dynastyCn": "dong-jin",
+    "startYear": 317,
+    "endYear": 420,
+    "lengthOfDynasty": 103,
+    "founder": "司马睿",
+    "capital": "南京"
+  },
+  {
+    "isHide": true,
+    "dynasty": "十六国",
+    "dynastyCn": "shiliuguo",
+    "startYear": 304,
+    "endYear": 439,
+    "lengthOfDynasty": 135,
+    "period": [
+      "前赵",
+      "成汉",
+      "前凉",
+      "后赵",
+      "前燕",
+      "前秦",
+      "后秦",
+      "后燕",
+      "西秦",
+      "后凉",
+      "南凉",
+      "南燕",
+      "西凉",
+      "胡夏",
+      "北燕",
+      "北凉",
+      "冉魏",
+      "西燕",
+      "（西蜀）后蜀"
+    ]
+  },
+  {
+    "isHide": true,
+    "dynasty": "南北朝",
+    "dynastyCn": "nanbei",
+    "startYear": 420,
+    "endYear": 589,
+    "lengthOfDynasty": 169,
+    "period": [
+      "南朝·宋",
+      "南朝·齐",
+      "南朝·梁",
+      "南朝·陈",
+      "北朝·北魏",
+      "北朝·东魏",
+      "北朝·西魏",
+      "北朝·北齐",
+      "北朝·北周"
+    ]
+  },
+  {
+    "dynasty": "南朝·宋",
+    "dynastyCn": "nan-song",
+    "startYear": 420,
+    "endYear": 479,
+    "lengthOfDynasty": 59,
+    "founder": "刘裕",
+    "capital": "南京"
+  },
+  {
+    "dynasty": "南朝·齐",
+    "dynastyCn": "nan-qi",
+    "startYear": 479,
+    "endYear": 502,
+    "lengthOfDynasty": 23,
+    "founder": "萧道成",
+    "capital": "南京"
+  },
+  {
+    "dynasty": "南朝·梁",
+    "dynastyCn": "nan-liang",
+    "startYear": 502,
+    "endYear": 557,
+    "lengthOfDynasty": 55,
+    "founder": "萧衍",
+    "capital": "南京"
+  },
+  {
+    "dynasty": "南朝·陈",
+    "dynastyCn": "nan-chen",
+    "startYear": 557,
+    "endYear": 589,
+    "lengthOfDynasty": 32,
+    "founder": "陈霸先",
+    "capital": "南京"
+  },
+  {
+    "dynasty": "北朝·北魏",
+    "dynastyCn": "bei-beiwei",
+    "startYear": 386,
+    "endYear": 534,
+    "lengthOfDynasty": 148,
+    "founder": "拓跋珪",
+    "capital": [
+      "大同",
+      "洛阳"
+    ]
+  },
+  {
+    "dynasty": "北朝·东魏",
+    "dynastyCn": "bei-dongwei",
+    "startYear": 534,
+    "endYear": 550,
+    "lengthOfDynasty": 16,
+    "founder": "元善见",
+    "capital": "安阳"
+  },
+  {
+    "dynasty": "北朝·西魏",
+    "dynastyCn": "bei-xiwei",
+    "startYear": 535,
+    "endYear": 557,
+    "lengthOfDynasty": 22,
+    "founder": "元宝炬",
+    "capital": "西安"
+  },
+  {
+    "dynasty": "北朝·北齐",
+    "dynastyCn": "bei-beiqi",
+    "startYear": 550,
+    "endYear": 577,
+    "lengthOfDynasty": 27,
+    "founder": "高洋",
+    "capital": "安阳"
+  },
+  {
+    "dynasty": "北朝·北周",
+    "dynastyCn": "bei-beizhou",
+    "startYear": 557,
+    "endYear": 581,
+    "lengthOfDynasty": 24,
+    "founder": "宇文觉",
+    "capital": "西安"
+  },
+  {
+    "dynasty": "隋朝",
+    "dynastyCn": "sui",
+    "startYear": 581,
+    "endYear": 618,
+    "lengthOfDynasty": 38,
+    "founder": "隋文帝杨坚",
+    "capital": [
+      "西安",
+      "洛阳"
+    ]
+  },
+  {
+    "dynasty": "唐",
+    "dynastyCn": "tang",
+    "startYear": 618,
+    "endYear": 907,
+    "lengthOfDynasty": 289,
+    "founder": "李渊",
+    "capital": [
+      "西安",
+      "洛阳"
+    ]
+  },
+  {
+    "isHide": true,
+    "dynasty": "五代十国",
+    "dynastyCn": "wudai",
+    "startYear": 891,
+    "endYear": 979,
+    "lengthOfDynasty": 89,
+    "capital": [
+      "开封",
+      "洛阳"
+    ],
+    "period": [
+      "后梁",
+      "后唐",
+      "后晋",
+      "后汉",
+      "后周",
+      "前蜀",
+      "后蜀",
+      "杨吴",
+      "南唐",
+      "吴越",
+      "闽国",
+      "马楚",
+      "南汉",
+      "南平",
+      "北汉"
+    ]
+  },
+  {
+    "dynasty": "北宋",
+    "dynastyCn": "beisong",
+    "startYear": 960,
+    "endYear": 1127,
+    "lengthOfDynasty": 167,
+    "founder": "赵匡胤",
+    "capital": "开封"
+  },
+  {
+    "dynasty": "南宋",
+    "dynastyCn": "nansong",
+    "startYear": 1127,
+    "endYear": 1279,
+    "lengthOfDynasty": 152,
+    "founder": "赵构",
+    "capital": "杭州"
+  },
+  {
+    "dynasty": "辽朝",
+    "dynastyCn": "liao",
+    "startYear": 916,
+    "endYear": 1125,
+    "lengthOfDynasty": 210,
+    "founder": "耶律阿保机",
+    "capital": "上京"
+  },
+  {
+    "dynasty": "西夏",
+    "dynastyCn": "xia",
+    "startYear": 1038,
+    "endYear": 1227,
+    "lengthOfDynasty": 190,
+    "founder": "李元昊",
+    "capital": "兴庆"
+  },
+  {
+    "dynasty": "金朝",
+    "dynastyCn": "jin",
+    "startYear": 1115,
+    "endYear": 1234,
+    "lengthOfDynasty": 120,
+    "founder": "完颜阿骨打",
+    "capital": [
+      "中都",
+      "开封"
+    ]
+  },
+  {
+    "isHide": true,
+    "dynasty": "蒙古",
+    "dynastyCn": "meng",
+    "startYear": 1206,
+    "endYear": 1368,
+    "lengthOfDynasty": 162,
+    "founder": [
+      "铁木真",
+      "元世祖忽必烈"
+    ],
+    "capital": "大都"
+  },
+  {
+    "dynasty": "蒙古",
+    "dynastyCn": "menggu",
+    "startYear": 1206,
+    "endYear": 1271,
+    "lengthOfDynasty": 66,
+    "founder": "铁木真",
+    "capital": "大都"
+  },
+  {
+    "dynasty": "元朝",
+    "dynastyCn": "yuan",
+    "startYear": 1271,
+    "endYear": 1368,
+    "lengthOfDynasty": 97,
+    "founder": "忽必烈",
+    "capital": "大都"
+  },
+  {
+    "dynasty": "明",
+    "dynastyCn": "ming",
+    "startYear": 1368,
+    "endYear": 1644,
+    "lengthOfDynasty": 277,
+    "founder": "朱元璋",
+    "capital": "南京"
+  },
+  {
+    "dynasty": "后金",
+    "dynastyCn": "houjin",
+    "startYear": 1616,
+    "endYear": 1636,
+    "lengthOfDynasty": 21,
+    "founder": "爱新觉罗·努尔哈赤",
+    "capital": "赫图阿拉"
+  },
+  {
+    "dynasty": "清",
+    "dynastyCn": "qing",
+    "startYear": 1636,
+    "endYear": 1912,
+    "lengthOfDynasty": 278,
+    "founder": "皇太极",
+    "capital": "北京"
+  },
+  {
+    "dynasty": "中华民国",
+    "dynastyCn": "minguo",
+    "startYear": 1912,
+    "endYear": 1949,
+    "lengthOfDynasty": 38,
+    "founder": "孙中山",
+    "capital": [
+      "北京",
+      "南京",
+      "重庆"
+    ]
+  }
+]
