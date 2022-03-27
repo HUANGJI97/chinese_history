@@ -65,7 +65,7 @@
     "capital": "洛阳"
   },
   {
-    "dynasty": "秦朝",
+    "dynasty": "秦",
     "dynastyCn": "qin",
     "startYear": -221,
     "endYear": -206,
@@ -220,7 +220,7 @@
       "北凉",
       "冉魏",
       "西燕",
-      "（西蜀）后蜀"
+      "西蜀"
     ]
   },
   {
@@ -327,7 +327,7 @@
     "capital": "西安"
   },
   {
-    "dynasty": "隋朝",
+    "dynasty": "隋",
     "dynastyCn": "sui",
     "startYear": 581,
     "endYear": 618,
@@ -398,7 +398,7 @@
     "capital": "杭州"
   },
   {
-    "dynasty": "辽朝",
+    "dynasty": "辽",
     "dynastyCn": "liao",
     "startYear": 916,
     "endYear": 1125,
@@ -416,7 +416,7 @@
     "capital": "兴庆"
   },
   {
-    "dynasty": "金朝",
+    "dynasty": "金",
     "dynastyCn": "jin",
     "startYear": 1115,
     "endYear": 1234,
@@ -434,11 +434,10 @@
     "startYear": 1206,
     "endYear": 1368,
     "lengthOfDynasty": 162,
-    "founder": [
-      "铁木真",
-      "元世祖忽必烈"
-    ],
-    "capital": "大都"
+    "period": [
+      "蒙古",
+      "元"
+    ]
   },
   {
     "dynasty": "蒙古",
@@ -450,7 +449,7 @@
     "capital": "大都"
   },
   {
-    "dynasty": "元朝",
+    "dynasty": "元",
     "dynastyCn": "yuan",
     "startYear": 1271,
     "endYear": 1368,
